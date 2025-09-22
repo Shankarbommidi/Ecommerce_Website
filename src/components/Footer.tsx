@@ -94,7 +94,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="border-t mt-8 pt-8 flex flex-col md:flex-row items-center justify-between text-sm text-muted-foreground">
-          <p>&copy; 2024 ElectroShop. All rights reserved.</p>
+          <p>&copy; 2024 ElectroShop. MIT Licensed.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-primary transition-smooth">Privacy Policy</a>
             <a href="#" className="hover:text-primary transition-smooth">Terms of Service</a>
